@@ -1,4 +1,3 @@
-package takeout;
 
 import static takeout.utils.PrintUtils.CommonPrintMethod.print;
 import static takeout.utils.PrintUtils.CommonPrintMethod.println;

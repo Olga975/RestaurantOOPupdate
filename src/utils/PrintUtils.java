@@ -1,4 +1,4 @@
-package takeout.utils;
+
 
 import static takeout.utils.PrintUtils.CommonPrintMethod.*;
 import static takeout.utils.PrintUtils.PrintSpaces.*;
